@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\hbi\Documents\gitE\acornTeam\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1589291171.index
+295184302.index
+224310232.index
+3994971341.index
+506544904.index
+3701162854.index
+1741418507.index
